@@ -1,0 +1,19 @@
+.error-indicator {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.error-indicator img {
+    max-width: 120px;
+}
+
+.error-indicator span {
+    display: block;
+    text-align: center;
+    color: #9c3e00;
+}
+
+.error-indicator span:first-child {
+    font-size: 2rem;
+    font-weight: bold;
+}
